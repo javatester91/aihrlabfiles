@@ -4,7 +4,7 @@
     <company>ИП Лежнева Екатерина Алексеевна</company>
     <url>https://aihrlab.ru</url>
     <email>lejnevaea@yandex.ru</email>
-    <picture>https://disk.yandex.ru/i/9OZD5rqyxttMiQ</picture>
+    <picture>https://cdn.jsdelivr.net/gh/javatester91/aihrlabfiles/AiHrLab100.png</picture>
     <description>Компания Ai HR Lab — образовательная online-платформа по обучению HR-специалистов использованию искусственного интеллекта и нейросетей в их работе. Мы обучаем как частных клиентов, так и корпоративные группы в очном и онлайн формате. Многие крупные компании России прошли обучение у нас и высоко оценили его качество.</description>
     <currencies>
     <currency id="RUR" rate="1"/>
@@ -25,7 +25,6 @@
         <price>28000</price>
         <currencyId>RUR</currencyId>
         <param name="Цена по скидке">23000</param>
-        <param name="Ближайшая дата">В любой момент</param>
         <param name="Продолжительность" unit="месяц">4</param>
         <!--Программа обучения-->
         <param name="План" order="1" unit="Тема 1. Применение ИИ в HR: теория и практика, обзор кейсов" hours="3">
@@ -84,7 +83,7 @@
         <param name="Результат обучения">Сертификат</param><!--Возможные значения - "Сертификат", "Диплом", "Удостоверение"-->
         <param name="Часы в неделю">3</param>
         <!--Описание курса-->
-        <picture>https://disk.yandex.ru/i/9OZD5rqyxttMiQ</picture>
+        <picture>https://cdn.jsdelivr.net/gh/javatester91/aihrlabfiles/AiHrLab100.png</picture>
         <description>Курс "Это база" — Базовый курс “Искусственный интеллект в работе HR” подойдёт HR-менеджерам, HRBP, рекрутерам, внутрикомам, менеджерам по обучению и развитию, бизнес-тренерам, методистам.
 		
 		Обучение проходит онлайн и включает в себя более 20 видеоуроков и домашние задания с обратной связью от преподавателя. 
@@ -108,7 +107,6 @@
         <price>39000</price>
         <currencyId>RUR</currencyId>
         <param name="Цена по скидке">34000</param>
-        <param name="Ближайшая дата">В любой момент</param>
         <param name="Продолжительность" unit="месяц">6</param>
         <!--Программа обучения-->
         <param name="План" order="1" unit="Тема 1. Применение ИИ в HR: теория и практика, обзор кейсов" hours="3">
@@ -189,7 +187,7 @@
         <param name="Результат обучения">Сертификат</param><!--Возможные значения - "Сертификат", "Диплом", "Удостоверение"-->
         <param name="Часы в неделю">3</param>
         <!--Описание курса-->
-        <picture>https://disk.yandex.ru/i/9OZD5rqyxttMiQ</picture>
+        <picture>https://cdn.jsdelivr.net/gh/javatester91/aihrlabfiles/AiHrLab100.png</picture>
         <description>Курс “Это PRO” —  подойдёт HR-менеджерам, HRBP, рекрутерам, внутрикомам, менеджерам по обучению и развитию, бизнес-тренерам, методистам, которые хотят более глубоко изучить возможности искусственного интеллекта
 
 		Обучение проходит онлайн и включает в себя более 40 видеоуроков и домашние задания с обратной связью от преподавателя.
