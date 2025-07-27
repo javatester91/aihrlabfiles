@@ -11,13 +11,13 @@
     </currencies>
     <sets>
       <set id="s1">
-        <name>Курсы по ИИ для HR по использованию ИИ в их работе</name>
+        <name>Курсы по использованию ИИ для HR</name>
         <url>https://aihrlab.ru/#price</url>
       </set>
     </sets>
     <offers>
       <offer id="1" available="true">
-        <name>Курс по ИИ "Это база"</name>
+        <name>Курс по использованию ИИ в работе HR. Тариф "Это база"</name>
         <url>https://aihrlab.ru/coursebase</url>
         <categoryId>1005</categoryId><!--Обязательная ссылка на категорию-->
         <param name="Дополнительная категория">199</param>
@@ -99,7 +99,7 @@
 		3. Идти в ногу со временем и "подружиться" с передовыми технологиями</description>
       </offer>
       <offer id="2" >
-        <name>Курс по ИИ "Это pro"</name>
+        <name>Курс по использованию ИИ в работе HR. Тариф "Это pro"</name>
         <url>https://aihrlab.ru/coursepro</url>
         <categoryId>1005</categoryId><!--Обязательная ссылка на категорию-->
         <param name="Дополнительная категория">199</param>
