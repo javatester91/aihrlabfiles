@@ -24,7 +24,6 @@
         <set-ids>s1</set-ids>
         <price>28000</price>
         <currencyId>RUR</currencyId>
-        <param name="Цена по скидке">23000</param>
         <param name="Продолжительность" unit="месяц">4</param>
         <!--Программа обучения-->
         <param name="План" order="1" unit="Тема 1. Применение ИИ в HR: теория и практика, обзор кейсов" hours="3">
